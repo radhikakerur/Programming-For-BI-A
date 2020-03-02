@@ -1,2 +1,2 @@
 # Programming-For-BI-A
-Class work
+HWK 1 : Simple problems to practice the basics of Python
